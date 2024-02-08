@@ -1,3 +1,12 @@
+
+ React project for weather request by cities.
+ Used API for this project is Tomorrow.io from RAPID API
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
